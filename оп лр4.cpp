@@ -17,7 +17,8 @@ int main()
 	int rest = (int)amount % (int)size;
 	cout << full << endl;
 	cout << rest;
-
+	/*перевірка репозиторія
+	*/
 	double x, y, z;
 	cin >> x;
 	cin >> y;
