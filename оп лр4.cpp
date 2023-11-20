@@ -27,5 +27,5 @@ int main()
 	printf("Результат виразу = %lf", a);
 
 	double b = (exp(2) + pow(y, -2) * cos(45) * x) / (5 * x + 1) + sin(pow(x, 2) + y);
-	printf("\nРезульт виразу = %lf", b);
+	printf("\nРезульs виразу = %lf", b);
 }
