@@ -15,9 +15,9 @@ int main()
 	cin >> size;
 	int full = amount / size;
 	int rest = (int)amount % (int)size;
-	cout << full << endl;
+	cout << full << ;
 	cout << rest;
-	/*перевірка репозиторія
+	/*перевірка репозиторіяsdasdawd
 	*/
 	double x, y, z;
 	cin >> x;
